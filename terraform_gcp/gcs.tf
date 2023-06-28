@@ -1,4 +1,4 @@
-#Google cloud storage created
+##Google cloud storage created
 resource "google_storage_bucket" "example-bucket" {
   name     = "example-gcs-bucket"
   location = "ASIA"
